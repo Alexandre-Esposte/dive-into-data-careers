@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "dive-into-data-careers"
+version = "0.1.0"
+description = "Análise de dados das carreiras de dados durante os anos de 2020 a janeiro de 2024"
+authors = ["Alexandre Esposte <alexandreesposte@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+folium = "^0.15.1"
+seaborn = "^0.13.2"
+pycountry-convert = "^0.7.2"
+geopy = "^2.4.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

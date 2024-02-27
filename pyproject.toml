@@ -13,6 +13,7 @@ folium = "^0.15.1"
 seaborn = "^0.13.2"
 pycountry-convert = "^0.7.2"
 geopy = "^2.4.1"
+scipy = "^1.12.0"
 
 
 [tool.poetry.group.dev.dependencies]

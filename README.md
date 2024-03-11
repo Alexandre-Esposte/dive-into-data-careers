@@ -1,5 +1,3 @@
-# dive-into-data-careers
-
 # **Dive into data careers**
 
  
@@ -9,7 +7,7 @@
  Nesse contexto, uma das áreas que mais tem se destacado é a área de dados. Com a explosão da quantidade de dados disponíveis e a crescente necessidade de extrair insights significativos deles, a demanda por profissionais qualificados em dados nunca foi tão alta. A promessa de carreiras lucrativas e repletas de oportunidades atrai cada vez mais pessoas em busca de atualização profissional e sucesso financeiro. Na imagem a seguir, apresentamos os dados referentes às buscas pelos termos "machine learning" e "ciencia de dados" no google, e podemos notar a clara tendência de crescimento iniciando em meados de 2016/2017 e o seu máximo em 2022/2024. 
 
 
-<img src="../images/tendencias.png" alt="Tendencias" width="750"/>
+<img src="images/tendencias.png" alt="Tendencias" width="750"/>
 
 
 

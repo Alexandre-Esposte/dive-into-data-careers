@@ -48,8 +48,9 @@ A presente análise busca compreender quais são as carreiras de dados mais prom
 
 O desenvolvimento deste trabalho é motivado e incentivado pelo clube de assinaturas da Universidade dos Dados pelo André Yukio através de uma competição que visa selecionar as melhores análises acerca do tema proposto. 
 
+---
 # **Observação**
 
  Em algumas etapas da análise há mapas interativos, todavia, o git hub por si só não renderiza esse tipo de conteúdo. Dito isso, é altamente recomendável utilizar o nbviewer para a renderização correta.
 
- Link para o notebook no nbviewer para a renderização de mapas interativos:  https://nbviewer.org/github/Alexandre-Esposte/dive-into-data-careers/blob/master/notebook/data_careers_analysis.ipynb
+ [Link para o notebook no nbviewer para a renderização de mapas interativos](https://nbviewer.org/github/Alexandre-Esposte/dive-into-data-careers/blob/master/notebook/data_careers_analysis.ipynb)
